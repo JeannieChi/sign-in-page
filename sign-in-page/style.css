@@ -1,0 +1,118 @@
+.rectangle1 {
+  position: absolute;
+  width: 452px;
+  height: 494px;
+  left: 0px;
+  top: 0px;
+  margin-top: 265px;
+  margin-left: 494px;
+  margin-right: 494px;
+  margin-bottom: 265px;
+  background: #F8F7F7;
+  box-shadow: 4px 4px 12px rgba(146, 143, 143, 0.25), -4px -4px 12px rgba(255, 255, 255, 0.25);
+  border-radius: 40px;
+}
+.welcome {
+  position: absolute;
+  width: 200px;
+  height: 56px;
+  margin-left: 58px;
+  margin-top: 78px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 56px;
+  color: #002766;
+}
+.start {
+  position: absolute;
+  width: 200px;
+  height: 23px;
+  margin-left: 65px;
+  margin-top: 157px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  color: #002766;
+}
+.rectangle2 {
+  position: absolute;
+  width: 336px;
+  height: 60px;
+  left: 58px;
+  top: 203px;
+  background: #F8F7F7;
+  box-shadow: inset -4px -4px 12px rgba(255, 255, 255, 0.75), inset 4px 4px 12px rgba(147, 147, 147, 0.25);
+  border-radius: 60px;
+}
+.accname {
+  position: absolute;
+  width: 130px;
+  height: 18px;
+  margin-top: 21px;
+  margin-left: 24px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: rgba(0, 39, 102, 0.5);
+}
+.rectangle3 {
+  position: absolute;
+  width: 336px;
+  height: 60px;
+  left: 58px;
+  top: 286px;
+  background: #F8F7F7;
+  box-shadow: inset -4px -4px 12px rgba(255, 255, 255, 0.75), inset 4px 4px 12px rgba(147, 147, 147, 0.25);
+  border-radius: 60px;
+}
+.pw {
+  position: absolute;
+width: 1130x;
+height: 18px;
+margin-top: 21px;
+margin-left: 24px;
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+color: rgba(0, 39, 102, 0.5);
+}
+.rectangle4 {
+  position: absolute;
+  width: 148px;
+  height: 60px;
+  margin-left: 152px;
+  margin-top: 382px;
+  background: #F8F7F7;
+  box-shadow: -4px -4px 12px rgba(255, 255, 255, 0.75), 4px 4px 12px rgba(147, 147, 147, 0.25);
+  border-radius: 60px;
+}
+.signin {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  margin-left: 38px;
+  margin-top: 15px;
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #002766;
+}
+.eye {
+  position: absolute;
+  left: 76.55%;
+  right: 18.59%;
+  top: 62.35%;
+  bottom: 33.81%;
+
+  background: rgba(0, 39, 102, 0.5);
+}
